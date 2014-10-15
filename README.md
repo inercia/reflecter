@@ -2,6 +2,7 @@ Reflecter
 =========
 
 [![status](https://sourcegraph.com/api/repos/github.com/inercia/reflecter/.badges/status.png)](https://sourcegraph.com/github.com/inercia/reflecter)
+[![Build Status](https://drone.io/github.com/inercia/reflecter/status.png)](https://drone.io/github.com/inercia/reflecter/latest)
 
 A library for setting an arbitrary value in a structure by reflection.
 

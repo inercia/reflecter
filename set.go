@@ -1,6 +1,7 @@
-package gcfg
+package reflecter
 
 import (
+	"encoding"
 	"fmt"
 	"math/big"
 	"reflect"
@@ -10,6 +11,8 @@ import (
 
 	"github.com/inercia/reflecter/types"
 )
+
+type textUnmarshaler encoding.TextUnmarshaler
 
 type tag struct {
 	ident   string
