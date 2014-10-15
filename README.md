@@ -1,6 +1,8 @@
 Reflecter
 =========
 
+[![status](https://sourcegraph.com/api/repos/github.com/inercia/reflecter/.badges/status.png)](https://sourcegraph.com/github.com/inercia/reflecter)
+
 A library for setting an arbitrary value in a structure by reflection.
 
 It only provides one function:
